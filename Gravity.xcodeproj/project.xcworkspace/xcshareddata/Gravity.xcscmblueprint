@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FC6BBFE6AB2DB151063B089820CAAB65EE99D578",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FC6BBFE6AB2DB151063B089820CAAB65EE99D578" : 9223372036854775807,
+    "DD3F5F955A2C4C7B5B6BBC2C4E73AD926252BEFC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7350288B-229F-44BA-9D8F-C532BAA663F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FC6BBFE6AB2DB151063B089820CAAB65EE99D578" : "GravityIosGame\/",
+    "DD3F5F955A2C4C7B5B6BBC2C4E73AD926252BEFC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Gravity",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Gravity.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:pirate-spaceship-runscope1\/ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD3F5F955A2C4C7B5B6BBC2C4E73AD926252BEFC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:the-sailor\/GravityIosGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC6BBFE6AB2DB151063B089820CAAB65EE99D578"
+    }
+  ]
+}
