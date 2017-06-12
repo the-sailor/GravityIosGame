@@ -42,6 +42,39 @@
 		0E62565E1BE0802800DA9AE9 /* gameover.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E62565D1BE0802800DA9AE9 /* gameover.png */; };
 		0E6256611BE09A6C00DA9AE9 /* GVFixedEnemy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6256601BE09A6C00DA9AE9 /* GVFixedEnemy.m */; };
 		0E6256631BE09B7F00DA9AE9 /* monster.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256621BE09B7F00DA9AE9 /* monster.png */; };
+		9E462C881EEE834100B72A19 /* GVHole.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E62564C1BE03D3300DA9AE9 /* GVHole.m */; };
+		9E462C891EEE834100B72A19 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6255DC1BDEFF0700DA9AE9 /* ViewController.m */; };
+		9E462C8A1EEE834100B72A19 /* GVEnemyLogic.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6256491BE03AD600DA9AE9 /* GVEnemyLogic.m */; };
+		9E462C8B1EEE834100B72A19 /* GVSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E62560B1BDF04B000DA9AE9 /* GVSprite.m */; };
+		9E462C8C1EEE834100B72A19 /* GVFixedEnemy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6256601BE09A6C00DA9AE9 /* GVFixedEnemy.m */; };
+		9E462C8D1EEE834100B72A19 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6255D91BDEFF0700DA9AE9 /* AppDelegate.m */; };
+		9E462C8E1EEE834100B72A19 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6255D61BDEFF0700DA9AE9 /* main.m */; };
+		9E462C8F1EEE834100B72A19 /* GVGameSurface.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E62560E1BDF04CF00DA9AE9 /* GVGameSurface.m */; };
+		9E462C901EEE834100B72A19 /* GVMovingEnemy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6256511BE04F1600DA9AE9 /* GVMovingEnemy.m */; };
+		9E462C911EEE834100B72A19 /* GVEnemy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E6256461BE0382300DA9AE9 /* GVEnemy.m */; };
+		9E462C931EEE834100B72A19 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E6256431BE035CA00DA9AE9 /* QuartzCore.framework */; };
+		9E462C951EEE834100B72A19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E6255E31BDEFF0700DA9AE9 /* LaunchScreen.storyboard */; };
+		9E462C961EEE834100B72A19 /* spaceWalk_test 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256371BDF3FEC00DA9AE9 /* spaceWalk_test 7.png */; };
+		9E462C971EEE834100B72A19 /* poof 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256531BE06B8900DA9AE9 /* poof 1.png */; };
+		9E462C981EEE834100B72A19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E6255E11BDEFF0700DA9AE9 /* Assets.xcassets */; };
+		9E462C991EEE834100B72A19 /* spaceWalk_test 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256311BDF3FEC00DA9AE9 /* spaceWalk_test 1.png */; };
+		9E462C9A1EEE834100B72A19 /* spaceWalk_test 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256321BDF3FEC00DA9AE9 /* spaceWalk_test 2.png */; };
+		9E462C9B1EEE834100B72A19 /* monster.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256621BE09B7F00DA9AE9 /* monster.png */; };
+		9E462C9C1EEE834100B72A19 /* poof 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256571BE06B8900DA9AE9 /* poof 5.png */; };
+		9E462C9D1EEE834100B72A19 /* poof 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256551BE06B8900DA9AE9 /* poof 3.png */; };
+		9E462C9E1EEE834100B72A19 /* spaceWalk_test 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256351BDF3FEC00DA9AE9 /* spaceWalk_test 5.png */; };
+		9E462C9F1EEE834100B72A19 /* midground_big.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256291BDF345D00DA9AE9 /* midground_big.png */; };
+		9E462CA01EEE834100B72A19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E6255DE1BDEFF0700DA9AE9 /* Main.storyboard */; };
+		9E462CA11EEE834100B72A19 /* spaceWalk_test 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256361BDF3FEC00DA9AE9 /* spaceWalk_test 6.png */; };
+		9E462CA21EEE834100B72A19 /* poof 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256541BE06B8900DA9AE9 /* poof 2.png */; };
+		9E462CA31EEE834100B72A19 /* foreground_big.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256411BDF65F700DA9AE9 /* foreground_big.png */; };
+		9E462CA41EEE834100B72A19 /* spaceWalk_test 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256381BDF3FEC00DA9AE9 /* spaceWalk_test 8.png */; };
+		9E462CA51EEE834100B72A19 /* poof 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256561BE06B8900DA9AE9 /* poof 4.png */; };
+		9E462CA61EEE834100B72A19 /* spaceWalk_test 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256341BDF3FEC00DA9AE9 /* spaceWalk_test 4.png */; };
+		9E462CA71EEE834100B72A19 /* gameover.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E62565D1BE0802800DA9AE9 /* gameover.png */; };
+		9E462CA81EEE834100B72A19 /* spaceWalk_test 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256331BDF3FEC00DA9AE9 /* spaceWalk_test 3.png */; };
+		9E462CA91EEE834100B72A19 /* spaceBackground_big.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E6256271BDF2E8B00DA9AE9 /* spaceBackground_big.png */; };
+		9E462CAA1EEE834100B72A19 /* fuzzy_ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E62564E1BE04E6700DA9AE9 /* fuzzy_ball.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -112,6 +145,8 @@
 		0E62565F1BE09A6B00DA9AE9 /* GVFixedEnemy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GVFixedEnemy.h; sourceTree = "<group>"; };
 		0E6256601BE09A6C00DA9AE9 /* GVFixedEnemy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GVFixedEnemy.m; sourceTree = "<group>"; };
 		0E6256621BE09B7F00DA9AE9 /* monster.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster.png; sourceTree = "<group>"; };
+		9E462CAF1EEE834100B72A19 /* Gravity Auto sign.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Gravity Auto sign.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9E462CB01EEE834200B72A19 /* Gravity copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Gravity copy-Info.plist"; path = "/Users/meiravfeiler/Documents/Development/Tests projects/the-sailor/GravityIosGame/Gravity copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +172,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		9E462C921EEE834100B72A19 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9E462C931EEE834100B72A19 /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -149,6 +192,7 @@
 				0E6255EE1BDEFF0800DA9AE9 /* GravityTests */,
 				0E6255F91BDEFF0800DA9AE9 /* GravityUITests */,
 				0E6255D31BDEFF0700DA9AE9 /* Products */,
+				9E462CB01EEE834200B72A19 /* Gravity copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -158,6 +202,7 @@
 				0E6255D21BDEFF0700DA9AE9 /* Gravity.app */,
 				0E6255EB1BDEFF0800DA9AE9 /* GravityTests.xctest */,
 				0E6255F61BDEFF0800DA9AE9 /* GravityUITests.xctest */,
+				9E462CAF1EEE834100B72A19 /* Gravity Auto sign.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -300,6 +345,23 @@
 			productReference = 0E6255F61BDEFF0800DA9AE9 /* GravityUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		9E462C861EEE834100B72A19 /* Gravity Auto sign */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9E462CAB1EEE834100B72A19 /* Build configuration list for PBXNativeTarget "Gravity Auto sign" */;
+			buildPhases = (
+				9E462C871EEE834100B72A19 /* Sources */,
+				9E462C921EEE834100B72A19 /* Frameworks */,
+				9E462C941EEE834100B72A19 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Gravity Auto sign";
+			productName = Gravity;
+			productReference = 9E462CAF1EEE834100B72A19 /* Gravity Auto sign.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -322,6 +384,10 @@
 						CreatedOnToolsVersion = 7.0.1;
 						TestTargetID = 0E6255D11BDEFF0700DA9AE9;
 					};
+					9E462C861EEE834100B72A19 = {
+						DevelopmentTeam = 5Z97G9NZQ6;
+						ProvisioningStyle = Automatic;
+					};
 				};
 			};
 			buildConfigurationList = 0E6255CD1BDEFF0700DA9AE9 /* Build configuration list for PBXProject "Gravity" */;
@@ -340,6 +406,7 @@
 				0E6255D11BDEFF0700DA9AE9 /* Gravity */,
 				0E6255EA1BDEFF0800DA9AE9 /* GravityTests */,
 				0E6255F51BDEFF0800DA9AE9 /* GravityUITests */,
+				9E462C861EEE834100B72A19 /* Gravity Auto sign */,
 			);
 		};
 /* End PBXProject section */
@@ -388,6 +455,35 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		9E462C941EEE834100B72A19 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9E462C951EEE834100B72A19 /* LaunchScreen.storyboard in Resources */,
+				9E462C961EEE834100B72A19 /* spaceWalk_test 7.png in Resources */,
+				9E462C971EEE834100B72A19 /* poof 1.png in Resources */,
+				9E462C981EEE834100B72A19 /* Assets.xcassets in Resources */,
+				9E462C991EEE834100B72A19 /* spaceWalk_test 1.png in Resources */,
+				9E462C9A1EEE834100B72A19 /* spaceWalk_test 2.png in Resources */,
+				9E462C9B1EEE834100B72A19 /* monster.png in Resources */,
+				9E462C9C1EEE834100B72A19 /* poof 5.png in Resources */,
+				9E462C9D1EEE834100B72A19 /* poof 3.png in Resources */,
+				9E462C9E1EEE834100B72A19 /* spaceWalk_test 5.png in Resources */,
+				9E462C9F1EEE834100B72A19 /* midground_big.png in Resources */,
+				9E462CA01EEE834100B72A19 /* Main.storyboard in Resources */,
+				9E462CA11EEE834100B72A19 /* spaceWalk_test 6.png in Resources */,
+				9E462CA21EEE834100B72A19 /* poof 2.png in Resources */,
+				9E462CA31EEE834100B72A19 /* foreground_big.png in Resources */,
+				9E462CA41EEE834100B72A19 /* spaceWalk_test 8.png in Resources */,
+				9E462CA51EEE834100B72A19 /* poof 4.png in Resources */,
+				9E462CA61EEE834100B72A19 /* spaceWalk_test 4.png in Resources */,
+				9E462CA71EEE834100B72A19 /* gameover.png in Resources */,
+				9E462CA81EEE834100B72A19 /* spaceWalk_test 3.png in Resources */,
+				9E462CA91EEE834100B72A19 /* spaceBackground_big.png in Resources */,
+				9E462CAA1EEE834100B72A19 /* fuzzy_ball.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -421,6 +517,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E6255FB1BDEFF0800DA9AE9 /* GravityUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9E462C871EEE834100B72A19 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9E462C881EEE834100B72A19 /* GVHole.m in Sources */,
+				9E462C891EEE834100B72A19 /* ViewController.m in Sources */,
+				9E462C8A1EEE834100B72A19 /* GVEnemyLogic.m in Sources */,
+				9E462C8B1EEE834100B72A19 /* GVSprite.m in Sources */,
+				9E462C8C1EEE834100B72A19 /* GVFixedEnemy.m in Sources */,
+				9E462C8D1EEE834100B72A19 /* AppDelegate.m in Sources */,
+				9E462C8E1EEE834100B72A19 /* main.m in Sources */,
+				9E462C8F1EEE834100B72A19 /* GVGameSurface.m in Sources */,
+				9E462C901EEE834100B72A19 /* GVMovingEnemy.m in Sources */,
+				9E462C911EEE834100B72A19 /* GVEnemy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -619,6 +732,51 @@
 			};
 			name = Release;
 		};
+		9E462CAC1EEE834100B72A19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				INFOPLIST_FILE = "Gravity copy-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = meirav.com.novn.Gravity;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = Debug;
+		};
+		9E462CAD1EEE834100B72A19 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				INFOPLIST_FILE = "Gravity copy-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = meirav.com.novn.Gravity;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = Release;
+		};
+		9E462CAE1EEE834100B72A19 /* Mobile Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				INFOPLIST_FILE = "Gravity copy-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = meirav.com.novn.Gravity;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = "Mobile Release";
+		};
 		9E9D1B9B1ED5303300D97EEC /* Mobile Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -735,6 +893,16 @@
 				0E6256061BDEFF0800DA9AE9 /* Debug */,
 				0E6256071BDEFF0800DA9AE9 /* Release */,
 				9E9D1B9E1ED5303300D97EEC /* Mobile Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9E462CAB1EEE834100B72A19 /* Build configuration list for PBXNativeTarget "Gravity Auto sign" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9E462CAC1EEE834100B72A19 /* Debug */,
+				9E462CAD1EEE834100B72A19 /* Release */,
+				9E462CAE1EEE834100B72A19 /* Mobile Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
